@@ -2,7 +2,7 @@
 
 **Turning two years of retail transactions into a visual story that a manager can understand at a glance.**
 
-![Retail Sales Performance Dashboard](images/dashboard_snapshot.png)
+![Retail Sales Performance Dashboard](dashboard_snapshot.png)
 
 *Power BI dashboard: 4 KPIs, 3 filters (Year, Region, Product Category), monthly trend, regional comparison, customer segment share and a category scorecard.*
 
